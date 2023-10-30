@@ -1,0 +1,11 @@
+[
+  {
+    "title": "GatiBaño",
+    "description": "Cucha con arenero",
+    "price": 15000,
+    "thumbnail": "foto.jpg",
+    "code": "234",
+    "stock": 11,
+    "id": 2
+  }
+]
